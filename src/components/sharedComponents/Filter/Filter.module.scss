@@ -1,0 +1,23 @@
+section{
+  background-color: #F9F9F9;
+  padding: 1rem 0;
+}
+.container {
+  width: 90%;
+  margin: auto;
+}
+.categoreis {
+ display: flex;
+ justify-content: space-between;
+ margin: 0;
+ padding: 0;
+}
+ul li{
+  list-style-type: none;
+  font-weight: 500;
+font-size: 15px;
+line-height: 22px;
+
+color: #151515;
+
+}
